@@ -13,3 +13,8 @@
   
   [![](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/maneesh-weearsooriya-24b5a9134/)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/maneeshmw/count.svg?"  />
+</div>
+
+###
