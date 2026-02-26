@@ -1,3 +1,13 @@
+
+<!-- KNIGHT RIDER LED STRIP HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=40&section=header&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="600"/>
+</p>
+
 <h1 align="center">🎮 Maniya</h1>
 <p align="center">Game Developer • Godot • C++ • Java</p>
 
