@@ -1,54 +1,58 @@
-
----
-
-## 🧩 Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Godot-Soft%20Engine-E0E5EC?style=for-the-badge&logo=godot-engine" />
-<img src="https://img.shields.io/badge/Blender-Modeling-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
-
----
-
-## 🚀 Current Focus
-
-- 🔹 3D Game Development in Godot  
-- 🔹 Performance Optimization  
-- 🔹 Clean Game Architecture  
-- 🔹 Custom Game Tools  
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-</div>
-
----
-
-## 🌌 Projects
-
-| Project | Description |
-|---------|-------------|
-| 🎮 3D Open World Prototype | GTA-style mechanics in Godot |
-| 🧍 Character Controller System | Advanced 3D movement system |
-| 🛠 Custom Tools | Lightweight tools for dev workflow |
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/YOUR_USERNAME  
-- Email: yourmail@example.com  
-
----
+<h1 align="center">🎮 Maniya</h1>
+<p align="center">Game Developer • Godot • C++ • Java</p>
 
 <p align="center">
-  🌑 Designed with Soft Neumorphic Style
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=E0E5EC" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=E0E5EC" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=E0E5EC" />
 </p>
+
+---
+
+## 🌊 About Me
+
+> 🎮 I build 3D & 2D games using Godot  
+> ⚙️ I write performance-focused C++ systems  
+> ☕ Strong foundation in Java & OOP  
+> 🧠 Interested in game architecture & optimization  
+
+---
+
+## 🧩 Tech Stack
+
+### 🎮 Game Dev
+- Godot Engine (3D / 2D)
+- Character Controllers
+- Game Mechanics Systems
+- UI & HUD Systems
+- Optimization for Low-End Devices
+
+### 💻 Programming
+- C++
+- Java
+
+
+## 🚀 Featured Projects
+
+| 🎮 Project | Description |
+|------------|-------------|
+| 3D Open World e | GTA-style mechanics built in Godot |
+| Advanced Character Controller | Smooth third-person controller system |
+| Custom Dev Tools | Lightweight tools for workflow |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mwmaneesh&show_icons=true&theme=default" />
+</p>
+
+---
+
+## 🌑 Current Focus
+
+- Game performance optimization  
+- Clean and scalable game code  
+
+---
