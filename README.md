@@ -36,7 +36,7 @@
 
 | 🎮 Project | Description |
 |------------|-------------|
-| 3D Open World e | GTA-style mechanics built in Godot |
+| 3D Open World | GTA-style mechanics built in Godot |
 | Advanced Character Controller | Smooth third-person controller system |
 | Custom Dev Tools | Lightweight tools for workflow |
 
